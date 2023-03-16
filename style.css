@@ -1,0 +1,10 @@
+body{
+    background-position:center;
+    background-size: cover;
+}
+a{
+    font-size:25px;
+    width:425;
+    background-color: white;
+    color:black;
+}
